@@ -1,0 +1,1 @@
+console.log("The Ways of Masters")
